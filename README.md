@@ -1,4 +1,4 @@
-# Tic tac toe games
+# Tic Tac Toe Games
 This is a The University of Texas at Dallas Artificial Intelligence Project using Prolog.
 
 ## Run the code
